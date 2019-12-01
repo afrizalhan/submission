@@ -1,0 +1,17 @@
+{
+    "name": "Footy Stats",
+    "short_name": "Footy Stats",
+    "description": "App for football stats",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "Logo CodePolitan Icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id" : "473576422517"
+}
